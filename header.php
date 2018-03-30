@@ -26,9 +26,9 @@
 						<?php bloginfo( 'title' ); ?>
 					</a>
 				</div>
-				<?php 
+				<?php
 					//TODO: Feature: Add dynamic nav menu.
 				?>
 			</nav>
 		</header>
-	</div>
+	
