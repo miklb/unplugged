@@ -21,7 +21,8 @@ get_header(); ?>
 				get_template_part( 'template-parts/content', 'none' );
 		endif;
 		?>
-	</div><!-- end .main -->
+			</div>
+			<!-- end .main -->
 
 
-<?php get_footer(); ?>
+			<?php get_footer(); ?>
