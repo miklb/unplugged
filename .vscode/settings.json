@@ -1,0 +1,7 @@
+{
+    "logViewer.watch": [{
+        "title": "WP Debug",
+        "pattern": "/Users/miklb/Dev/miklb.dev/wp-content/debug.log"
+    }
+]
+}
